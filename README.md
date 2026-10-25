@@ -4,7 +4,7 @@ AGRIPrice is a mandi price comparison dashboard designed to help farmers make mo
 
 **Live Demo:** https://agriprice7.netlify.app/
 
-![AGRIPrice screenshot](image.png)
+![AGRIPrice screenshot](agriprice.png)
 
 > **Note:** This is a prototype. All prices, trends, AI insights, and sync logs are simulated demo data. There is no backend, database, or live API connection yet.
 
